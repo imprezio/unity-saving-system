@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SavingSystem
+namespace JeffreySaver
 {
     [System.Serializable]
     public class SerializableVector3

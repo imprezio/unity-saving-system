@@ -5,7 +5,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace SavingSystem
+namespace JeffreySaver
 {
     public class SavingSystem : MonoBehaviour
     {

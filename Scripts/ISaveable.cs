@@ -1,4 +1,4 @@
-namespace SavingSystem
+namespace JeffreySaver
 {
     public interface ISaveable
     {

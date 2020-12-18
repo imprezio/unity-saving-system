@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace SavingSystem
+namespace JeffreySaver
 {
     [ExecuteAlways]
     public class SaveableEntity : MonoBehaviour
