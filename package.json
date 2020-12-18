@@ -1,4 +1,7 @@
 {
-    "name": "imprezio.unity-saving-system",
-    "version": "1.0.0"
+  "name": "imprezio.unity-saving-system",
+  "version": "1.0.0",
+  "dependencies": {
+    "com.unity.entities": "0.1.1-preview"
   }
+}
